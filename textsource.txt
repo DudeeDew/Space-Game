@@ -1,0 +1,26 @@
+E0000 You've found a fuel leak in the tank. Unfortunately you lose some of your valuable fuel.
+E0001 Some of your food wares were eaten by space rats. Time to buy a space cat.
+E0002 After a tough maneuver you lose some of your trade goods.
+E0003 A hacker aboard passing ship has robbed you of some of your precious e-money. Just when you thought it's safer in the bank.
+E0004 You've stumbled upon a barrel with fuel! Too bad it's not full.
+E0005 There are some trade goods scattered about, looks like nobody's gonna miss them.
+E0006 You win in a galactic lottery! Unfortunately, even its jackpot is scammy, so your win isn't really that big.
+E0007 Your ship nearly got destroyed by a meteorite shower.
+E0100 The government of % is overthrown, expect significant price changes.
+E0101 There's been a pandemic disease on %, food and medicine will become more scarce and expensive there.
+E0102 % is engulfed in war, weapon prices are skyrocketing.
+E0103 Industry on % is expanding, they need more mineral resources from other worlds. However their tech is cheaper.
+E0104 The population of % is preparing for migration, leaving the planet with lots of unrequited food and medicine. However they will buy lots of hi-tech devices for a good price.
+E0105 % came to pacifistic ideals, making weapons almost worthless there.
+E0200 You've noticed a trader ship on your radar and decide to fly closer. He willingly shows you some of his cargo.
+E0201 You meet a fuel tanker in the space. The owner offers you to buy some fuel from him.
+E0202 Following a distress beacon you find a ship which is out of fuel. The captain asks you to give them some of yours and will reward you generously.
+E0300 A comet % has entered the system.
+Q0000 Government of %s wants you to travel to %g and find a certain item there, which needs to be returned back to them in %d days.
+Q0001 A wealthy noble from %s has lost a valuable item on %g, you need to go there and retrieve it before %d days pass.
+Q0100 You need to locate a shipwreck on %g and transfer the data to %s before its crew dies. You have about %d days to do it.
+Q0101 %s asks you to scan the %g, since they're really short on scout ships at the moment. If you fail to do so in %d days, they will contract someone else.
+Q0200 %s needs an order that's been finished on %g. You need to deliver it back in %d days.
+Q0300 A package of documents is prepared to be sent to %g. Deliver it in %d days.
+Q0301 A businessman from %s wants you to take him to %g. He won't pay you if it takes more than %d days and will get off to another transport.
+Q0400 You need to get to %g's orbit ASAP. No questions.
